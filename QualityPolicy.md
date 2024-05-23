@@ -1,23 +1,14 @@
 ### Quality Policy
-Code Review: All changes must go through code review before being merged into the main branch to ensure quality, maintainability, and adherence to coding standards.
-
-Testing: Code changes should include tests to validate functionality and prevent regressions. This can include unit tests, integration tests, and end-to-end tests as appropriate for the project.
-
-Linting and Formatting: Code should adhere to coding style guidelines and be consistently formatted. This can be enforced using linters and code formatters.
-
-Documentation: Code changes should include appropriate documentation, such as inline comments, README files, and API documentation, to make the codebase understandable and maintainable.
-
-Issue and Pull Request Templates: Contributors should use standardized templates when opening issues or pull requests to provide necessary information and context for review.
-
-Branching Strategy: A clear branching strategy, such as GitFlow or GitHub Flow, should be followed to manage code changes effectively and minimize conflicts.
-
-Dependency Management: Dependencies should be managed carefully, and updates should be reviewed and tested to prevent compatibility issues or security vulnerabilities.
-
-Continuous Integration (CI): Changes should be automatically tested using a CI system, and builds should pass all tests before being merged.
-
-Security Practices: Security vulnerabilities should be promptly addressed, and best practices for secure coding and handling of sensitive data should be followed.
-
-License: Projects should include a clear license file specifying the terms under which the code is available for use, modification, and redistribution.
+- Code Review: All changes must go through code review before being merged into the main branch to ensure quality, maintainability, and adherence to coding standards.
+- Testing: Code changes should include tests to validate functionality and prevent regressions. This can include unit tests, integration tests, and end-to-end tests as appropriate for the project.
+- Linting and Formatting: Code should adhere to coding style guidelines and be consistently formatted. This can be enforced using linters and code formatters.
+- Documentation: Code changes should include appropriate documentation, such as inline comments, README files, and API documentation, to make the codebase understandable and maintainable.
+- Issue and Pull Request Templates: Contributors should use standardized templates when opening issues or pull requests to provide necessary information and context for review.
+- Branching Strategy: A clear branching strategy, such as GitFlow or GitHub Flow, should be followed to manage code changes effectively and minimize conflicts.
+- Dependency Management: Dependencies should be managed carefully, and updates should be reviewed and tested to prevent compatibility issues or security vulnerabilities.
+- Continuous Integration (CI): Changes should be automatically tested using a CI system, and builds should pass all tests before being merged.
+- Security Practices: Security vulnerabilities should be promptly addressed, and best practices for secure coding and handling of sensitive data should be followed.
+- License: Projects should include a clear license file specifying the terms under which the code is available for use, modification, and redistribution.
 
 **GitHub Workflow** (start Sprint 1)
   > Describe your Workflow
