@@ -1,16 +1,16 @@
-Raesfeld
+Raesfeld : Raesfeld
 Flughafen Airport 
 Berlin Berlin 
 Bratwurst bratwurst 
 Hauptstrasse Main road 
 Brot Bread 
 Klimaanlage air conditioner 
-Rammstein 
+Rammstein : Rammstein
 Porsche Porsche
 BMW BMW 
-Biergarten 
-Ratskeller 
-Dirndel 
+Biergarten  : Beer Garden
+Ratskeller : Ratskeller
+Dirndel : Dirndel
 Lederhose Leather pants 
 Schloss Lock 
 wettbewerbsfaehig competitive
